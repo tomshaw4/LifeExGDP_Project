@@ -8,3 +8,5 @@ Steps completed so far
 Project and data downloaded to Jupyter Notebook
 
 Github depository created
+
+Project Scoping - I am keen to understand more around the relationship between GDP and Life Expectency which at I assume at a high level is positive.
